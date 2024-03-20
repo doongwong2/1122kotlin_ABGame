@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">hw0318</string>
+    <string name="input_hint">Input your answer.</string>
+    <string name="calculate_button">click here to calculate</string>
+    <string name="shuffle">shuffle</string>
+    <string name="input_error">input_error</string>
+    <string name="repeated_digits">repeated_digits</string>
+    <string name="result_hint">result is:</string>
+    <string name="cheat_button">free virus</string>
+
+</resources>
