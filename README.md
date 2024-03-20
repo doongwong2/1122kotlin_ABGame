@@ -1,4 +1,5 @@
-# 1122kotlin_ABGame
+# 1122kotlin_ABGame  
+This is a classwork, not homework.
 
 Requirements:  
 1. There should be a Button component to reveal the answer.
